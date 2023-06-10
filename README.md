@@ -2,7 +2,7 @@
 This project aims on statistical analysis of Business Data. It includes exploring the dataset which contains information about customers of the Axis Health Insurance  and extracting insights from the data.The project aims to provide insights into real-world problems and solve them using data analysis techniques.
 DATA SOURCE: Excel file containing the data used, has been uploaded.
 
-##Project overview
+## Project overview
 This project analyzes the data provided by the Axis Health Insurance, which contains information about their customers, health, and demographic data. We used various tools, including Python to clean, manipulate, and visualize the data. Through this process, we were able to identify key trends and insights, which were used to provide recommendations.
 
 ## Project Objectives
