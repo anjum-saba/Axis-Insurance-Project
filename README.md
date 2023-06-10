@@ -20,4 +20,14 @@ Seaborn
 sklearn
 scipy
 
+##Modules:
+Data Quality Assessment
+Data quality assessment was conducted to ensure that the data provided by the axis insurance company was accurate and complete. performed various checks, including verifying the completeness of the data, identifying and removing duplicate entries, and validating the accuracy of the data.
+
+Data Insights
+Targeting high value customers based on customer demographics and attributes. Used Jupyter notebook(Python) to perform statistical analyses, to identify correlations between variables. Also, created pivot tables and charts to visualize the data and identify trends.
+
+
+This project provoded me with a valuable learning opportunity. I gained an in-depth understanding of how to interpret and analyze data to identify key insights that could help businesses make informed decisions. I also learned how to present this information in a clear and concise manner, ensuring that clients understood the findings and their potential impact.
+
 
